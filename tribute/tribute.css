@@ -1,0 +1,84 @@
+.shadow,
+.image {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.shadow {
+    background-color: rgb(232,232,232);
+    width: 950px;
+    border-radius: 15px;
+    margin-top: 50px;
+    padding-bottom: 30px;
+}
+
+.header {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.header > h3 {
+    font-size: 30px;
+    font-style: italic;
+    font-family: serif;
+}
+
+.image {
+    background-color: #fff;
+    width: 75%;
+    height: 100%;
+}
+
+.image > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.picintro {
+    text-align: center;
+    display: block;
+    padding: 9px;
+}
+.timeline {
+    display: block;
+    margin-top: 40px;
+    margin-left: 14%;
+    font-size: 20px;
+}
+li {
+    margin-right: 15%;
+    margin-left: 15%;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+}
+.quote {
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.prime {
+    font-style: italic;
+}
+
+.link{
+    margin-left: 13%;
+    font-size: 25px;
+    width: 75%;
+    padding-bottom: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    display: block;
+    padding-top: 30px;
+    background-color: #fff;
+    text-align: center;
+}
+
